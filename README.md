@@ -3,7 +3,7 @@ Gratuity
 
 This is an iOS application that helps calculate the tip for your restaurant bill.
 
-Time spent: 5 hours spent in total
+Time spent: 6 hours spent in total
 
 Completed user stories:
 
