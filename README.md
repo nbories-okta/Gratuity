@@ -14,7 +14,7 @@ Completed user stories:
  * [x] Optional: Added transition animations
 
 Notes:
-Spent some time making sure the UI works across multiple screen resolution. Ran into problems with the animations scaling on iPhone6 and iPhone6+
+Spent some time trying to get the app to work across multiple screen resolution. Ran into problems with the animations scaling for iPhone6 and iPhone6+ resolutions
 
 Walkthrough of all user stories:
 
