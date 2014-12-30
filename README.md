@@ -18,6 +18,6 @@ Spent some time making sure the UI works across multiple screen resolution. Ran 
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](GratuityWalkThrough.gif)
+![Video Walkthrough](https://github.com/nbories-okta/Gratuity/blob/master/GratuityWalkthrough.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
