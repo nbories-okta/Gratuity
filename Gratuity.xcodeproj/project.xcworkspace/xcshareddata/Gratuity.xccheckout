@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6AC6CD76-3041-4E10-8BD9-8825116CDCA5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Gratuity</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>20861CE1A21AC9C8B43737132A00C8B571025351</key>
+		<string>https://github.com/nbories-okta/Gratuity.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Gratuity.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>20861CE1A21AC9C8B43737132A00C8B571025351</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nbories-okta/Gratuity.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>20861CE1A21AC9C8B43737132A00C8B571025351</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>20861CE1A21AC9C8B43737132A00C8B571025351</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Gratuity</string>
+		</dict>
+	</array>
+</dict>
+</plist>
